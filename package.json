@@ -1,0 +1,19 @@
+{
+  "name": "super-stringify",
+  "version": "1.0.0",
+  "description": "JavaScript's JSON.stringify done right",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriancable/super-stringify.git"
+  },
+  "author": "Adrian Cable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriancable/super-stringify/issues"
+  },
+  "homepage": "https://github.com/adriancable/super-stringify#readme"
+}
